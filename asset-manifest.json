@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/precipicewebsite/static/css/main.073c9b0a.css",
-    "main.js": "/precipicewebsite/static/js/main.152dfbb0.js",
+    "main.js": "/precipicewebsite/static/js/main.088c40a0.js",
     "static/js/787.4945a992.chunk.js": "/precipicewebsite/static/js/787.4945a992.chunk.js",
+    "static/media/yasmin-thailand.JPG": "/precipicewebsite/static/media/yasmin-thailand.7a1fc137b4d0a1408188.JPG",
+    "static/media/nadia-headshot.jpeg": "/precipicewebsite/static/media/nadia-headshot.cb0ca7fa4a59b2496d75.jpeg",
     "index.html": "/precipicewebsite/index.html",
     "main.073c9b0a.css.map": "/precipicewebsite/static/css/main.073c9b0a.css.map",
-    "main.152dfbb0.js.map": "/precipicewebsite/static/js/main.152dfbb0.js.map",
+    "main.088c40a0.js.map": "/precipicewebsite/static/js/main.088c40a0.js.map",
     "787.4945a992.chunk.js.map": "/precipicewebsite/static/js/787.4945a992.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.152dfbb0.js"
+    "static/js/main.088c40a0.js"
   ]
 }
